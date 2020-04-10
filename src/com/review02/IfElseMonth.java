@@ -41,10 +41,6 @@ public class IfElseMonth {
 					monthString = "December";
 				} else {
 					monthString = "Invalid";
-				}
-		//​
-				System.out.println("The month is " + monthString);
-		//​
-			}
-		//​
-		}
+				}System.out.println("The month is " + monthString);
+				
+	}}

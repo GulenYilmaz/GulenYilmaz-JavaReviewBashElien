@@ -29,8 +29,5 @@ public class SignleGuy {
 					System.out.println("Sorry, you are in a bad situation!");
 				}
 			}
-//	​
 		}
-	//​
-
 }
