@@ -26,8 +26,4 @@ public class SignleGuy {
 				if (good) {
 					System.out.println("The student will give you a chance!");
 				} else {
-					System.out.println("Sorry, you are in a bad situation!");
-				}
-			}
-		}
-}
+					System.out.println("Sorry, you are in a bad situation!");}}}}

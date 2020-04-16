@@ -18,11 +18,4 @@ public class Task1 {
 //				System.out.println(i);
 				// 3rd way, using ||
 				if (i % 2 != 0 || i % 3 != 0) {
-					System.out.println(i);
-				}
-			}
-
-
-	}
-	
-}
+					System.out.println(i);}}}}
