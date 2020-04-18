@@ -39,14 +39,7 @@ public static void main(String[] args) {
 			if (number2 > number1) {
 				System.out.println("number2 is bigger, the value is " + number2);
 			} else {
-				System.out.println("number1 and number2 are equal, the value is " + number1);
-		}
-
-		}
-}
-	 
-	 
-	 
+				System.out.println("number1 and number2 are equal, the value is " + number1);}}} 
 	 
 	 
 	 
