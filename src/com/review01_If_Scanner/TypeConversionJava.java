@@ -21,5 +21,4 @@ public class TypeConversionJava {
 		numberByte = 80;
 
 		numberInt = numberByte;
-		System.out.println("The int value is " + numberInt);
-	}}
+		System.out.println("The int value is " + numberInt);}}
